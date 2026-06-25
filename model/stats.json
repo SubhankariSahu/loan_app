@@ -1,0 +1,19 @@
+{
+  "total_applications": 614,
+  "approved_loans": 422,
+  "rejected_loans": 192,
+  "approval_rate": 68.73,
+  "rejection_rate": 31.27,
+  "model_accuracy": 87.8,
+  "confusion_matrix": [
+    [
+      27,
+      11
+    ],
+    [
+      4,
+      81
+    ]
+  ],
+  "duplicates_removed": 6
+}
